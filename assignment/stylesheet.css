@@ -6,7 +6,8 @@ header {
 
 main{
     background-color: lightgray;
-
+    margin: 1em;
+    padding: 1em;
 }
 
 body{
